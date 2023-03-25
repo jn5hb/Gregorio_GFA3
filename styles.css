@@ -1,0 +1,58 @@
+body {
+    height: 100%;
+	background-position: center;
+  	background-size: 100%;
+ 	background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.7)), url("https://cutewallpaper.org/28/desktop-wallpaper-arcade-cabinets/%F0%9D%90%82%F0%9D%90%87%F0%9D%90%94%F0%9D%90%8D-%F0%9D%90%8B%F0%9D%90%88-kth-%F0%9F%92%AE-cool-pixel-art-pixel-art-background-desktop-wallpaper-art.gif");
+    background-attachment: fixed;
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(224, 220, 220); 
+}
+
+header {
+    width: 50%;
+    padding: 24px 18px;
+    border-radius: 30px;
+    border: dotted rgb(99, 86, 119) 1px;
+    background-color: rgb(25, 17, 17);
+
+    font-size: 40px;
+    text-align: center;
+
+    margin-top: 4%;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0%);
+}
+.highlight {
+    color: rgb(211, 0, 144);
+}
+
+#container {
+    background-color: rgba(0, 0, 0, 0);
+
+    display: inline-block;
+
+    margin-top: 30px;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0%);
+}
+
+.subContainer {
+    width: 180px;
+    height: 225px;
+    padding: 40px;
+    border-radius: 30px;
+    border: dotted rgb(99, 86, 119) 1px;
+    background-color: rgb(25, 17, 17);
+
+    text-align: center;
+
+    display: inline-block;
+    vertical-align: text-top;
+
+    margin: 0px 5px;
+}
+
+
